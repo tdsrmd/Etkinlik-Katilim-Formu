@@ -9,6 +9,4 @@ Projeyi başlatmak için kendi bilgisayarınıza indirdikten ve belirttiğim yer
 Back-End'de `express.js` ve `mongoose` kullanıldı bir kaç ayarı değiştirerek kendinize göre düzenleyebilirsiniz.
 
 `api/models/guest.js` Dosyanından kendinize göre bir Collections Şema yaratın.
-`api/index.js` Dosyasında `kullaniciadi` , `sifre` yazan yerleri Mongo DB'deki oluşturduğunuz Database'e göre düzenleyiniz.
-
-:heart:
+`api/index.js` Dosyasında `kullaniciadi` , `sifre` yazan yerleri Mongo DB'deki oluşturduğunuz Database'e göre düzenleyiniz.:heart:
