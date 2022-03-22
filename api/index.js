@@ -6,7 +6,7 @@ const app = express();
 app.use(cors());
 // connect to mongodb
 mongoose.connect(
-  "mongodb+srv://sedat:qweasd123@cluster0.tdb0a.mongodb.net/GUESTS?retryWrites=true&w=majority",
+  "mongodb+srv://kullaniciadi:sifre@cluster0.tdb0a.mongodb.net/GUESTS?retryWrites=true&w=majority",
   { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true }
 );
 mongoose.Promise = global.Promise;
