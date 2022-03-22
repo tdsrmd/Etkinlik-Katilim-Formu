@@ -29,7 +29,7 @@ export default function App() {
     } else {
       axios
         .post(
-          "https://github-register-db-486ac.ondigitalocean.app/api/guests",
+          "URL",
           {
             firstName: firstName,
             lastName: lastName,
